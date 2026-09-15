@@ -50,7 +50,6 @@ This code is written in **C#**.
 If you only use this code for image matching, simply run:***RMSS\RMSS\bin\x64\Debug\g\RMSS.exe
 
 
-<img width="1100" height="600" alt="reslut-pair1" src="https://github.com/user-attachments/assets/5e72a855-9048-4f75-98c0-e3c612fae1f4" />
 
 
 ### Option 2: Modify the code
@@ -65,13 +64,8 @@ The code implements the **RMSS** algorithm (paper: *Multimodal Remote Sensing Im
 
 ## 📊 Result
 
-> *(Add your experimental results here — comparison tables, matching figures, or evaluation metrics.)*
 
-<!-- 建议在此处插入结果图，例如：
-<div align="center">
-  <img src="./images/result.png" width="700" alt="Matching Result">
-</div>
--->
+<img width="1100" height="600" alt="reslut-pair1" src="https://github.com/user-attachments/assets/5e72a855-9048-4f75-98c0-e3c612fae1f4" />
 
 ---
 
